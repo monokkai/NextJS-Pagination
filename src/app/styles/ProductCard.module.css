@@ -49,6 +49,8 @@
   text-align: center;
   margin-top: 20px;
   width: 100%;
+  position: fixed;
+  top: 800px;
 }
 
 .navElements {
